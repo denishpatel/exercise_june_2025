@@ -58,7 +58,7 @@ The below script will perform following operations
 
 ` pip install psycopg2-binary `
 
-` python sync_script.py `
+` python app.py `
 
 
 ### Assumptions
